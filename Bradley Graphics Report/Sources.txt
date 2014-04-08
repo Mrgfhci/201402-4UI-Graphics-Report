@@ -1,0 +1,11 @@
+The place where I obtained most of my code and helped me understand most of the concepts
+
+//http://docs.oracle.com/javase/tutorial/uiswing/layout/gridbag.html
+
+The code that I tried to get the image working(I tried Multiple variants)
+
+//http://stackoverflow.com/questions/4898584/java-using-an-image
+
+Other sources are 
+
+//http://ics3ui.sgrondin.ca/ss15/Frames.html 
